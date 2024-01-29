@@ -13,7 +13,7 @@ KEY EIGHT FEATURES :
 
 Code Written in Parallely for everyone understable. It can be made more attractive or dynamic but for static understanding for all view it kept simpler and easy.
 
-Abir Hasan
-Department of Computer Science & Engineering
-University of IUBAT in Bangladesh
-Any Help or Suggestion Mail Me: tamamabir@gmail.com
+-> Abir Hasan
+-> Department of Computer Science & Engineering
+-> University of IUBAT in Bangladesh
+* Any Help or Suggestion Mail Me: tamamabir@gmail.com *
