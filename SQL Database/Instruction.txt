@@ -1,0 +1,8 @@
+******READ INSTRUCTION CAREFULLY FOR IMPORT DATABASE IN SQL SERVER*********
+
+Import all the three database to mysql server as in individual database.
+
+* Don't import all database in one single database inside.
+
+* Import all and Change the if as your choice if needed otherwise it must keep the same .
+
