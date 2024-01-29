@@ -3,7 +3,7 @@ PHP &amp; MySql to Take MCQ Exam Very Fast and Efficient Way.
 
 KEY EIGHT FEATURES :
 1. Generate Max 500 Mcq question at a time.
-2. It provies -> Add image with question facility
+2. It provides -> Add image with question facility
 3. Routine Chart of Upcoming Exam
 4. No way to cheating in exam 
 5. Analysis answer with explanation
